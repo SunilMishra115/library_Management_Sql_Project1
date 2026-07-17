@@ -433,7 +433,9 @@ If you'd like to improve this project:
 
 **Sunil Mishra**
 
-SQL Developer | Data Analytics Enthusiast
+MS in Data Science
+
+Data Analyst | SQL | Python | Excel | Tableau | Power BI
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
