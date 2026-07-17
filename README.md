@@ -353,15 +353,22 @@ Using SQL, this project answers important business questions such as:
 
 ---
 
-# 📁 Project Structure
+# 📁 Repository Contents
 
-```
-Library-Management-System/
-│
-├── Library_Management_System.sql
-├── README.md
-└── ER_Diagram.png (Optional)
-```
+| File | Description |
+|------|-------------|
+| `README.md` | Project documentation |
+| `Practise_question.sql` | SQL project questions and practice tasks |
+| `Library_Solution_sql.sql` | Complete solutions for all SQL tasks |
+| `insert_queries.sql` | SQL script to insert sample data (Part 1) |
+| `insert_queries2.sql` | SQL script to insert additional sample data (Part 2) |
+| `books.csv` | Books dataset |
+| `branch.csv` | Branch dataset |
+| `employees.csv` | Employees dataset |
+| `members.csv` | Members dataset |
+| `issued_status.csv` | Issued books dataset |
+| `return_status.csv` | Returned books dataset |
+| `ER_library_sql.pdf` | Entity Relationship (ER) Diagram |
 
 ---
 
