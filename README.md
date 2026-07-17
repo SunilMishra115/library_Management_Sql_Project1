@@ -3,7 +3,6 @@
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Database](https://img.shields.io/badge/Database-Relational-success)
 ![Project](https://img.shields.io/badge/Project-Library%20Management-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 Project Overview
 
