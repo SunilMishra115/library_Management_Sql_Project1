@@ -1,4 +1,4 @@
-# # 📚 Library Management System using SQL
+# 📚 Library Management System using SQL
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Database](https://img.shields.io/badge/Database-Relational-success)
